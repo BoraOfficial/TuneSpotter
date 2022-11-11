@@ -6,7 +6,7 @@ Shazam-like music identifier written in <a href="https://python.org">Python</a>.
 ---
 ## How to use?
 ---
-First, you need to create your own song dataset. To do that, you need to first create a folder called <b>"songs"</b>, then move every song you have downloaded in it. They all need to be <b>.wav</b> files.
+First, download the repository and extract the files, then open up a terminal inside the repository's folder. When that's done, you need to create your own song dataset. To do that, you need to first create a folder called <b>"songs",</b> then move every song you have downloaded in it. They all need to be <b>.wav</b> files.
 
 After that, just run the code and it'll do the rest for you.
 To generate a dataset use this command:
