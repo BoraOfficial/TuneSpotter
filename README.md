@@ -1,6 +1,8 @@
 # TuneSpotter
 ---
-Shazam-like music identifier written in <a href="https://python.org">Python</a>
+
+Shazam-like music identifier written in <a href="https://python.org">Python</a>.
+
 ---
 ## How to use?
 ---
