@@ -15,7 +15,7 @@ To generate a dataset use this command:
 python main.py --dataset
 ```
 
-After the database is generated, you can now identify any song as long as it's in the dataset.
+After the dataset is generated, you can now identify any song as long as it's in the dataset.
 To do that just use this command:
 
 ```
