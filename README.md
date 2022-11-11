@@ -1,2 +1,21 @@
 # TuneSpotter
-Shazam-like music identifyer
+---
+Shazam-like music identifier written in <a href="https://python.org">Python</a>
+---
+## How to use?
+---
+First, you need to create your own song dataset. To do that, you need to first create a folder called <b>"songs"</b>, then move every song you have downloaded in it. They all need to be <b>.wav</b> files.
+
+After that, just run the code and it'll do the rest for you.
+To generate a dataset use this command:
+
+```
+python main.py --dataset
+```
+
+After the database is generated, you can now identify any song as long as it's in the dataset.
+To do that just use this command:
+
+```
+python main.py --detect enter-song-name-here.wav
+```
