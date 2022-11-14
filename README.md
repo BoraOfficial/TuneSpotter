@@ -19,5 +19,5 @@ After the dataset is generated, you can now identify any song as long as it's in
 To do that just use this command:
 
 ```
-python main.py --detect enter-song-name-here.wav
+python main.py --detect enter-file-name-here.wav
 ```
