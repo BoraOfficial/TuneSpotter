@@ -97,7 +97,7 @@ class TuneSpotter():
         plt.clf()   
 
         return ims  
-    
+    # another function to plot spectrogram
     def genplotstft(audiopath, binsize=2**10, plotpath=None, colormap="jet"):
         samplerate, samples = wav.read(audiopath)   
 
