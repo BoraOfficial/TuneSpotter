@@ -21,3 +21,6 @@ To do that just use this command:
 ```
 python main.py --detect enter-file-name-here.wav
 ```
+
+---
+This code is only in the prototype stage. Currently, you need to upload a file with the exact notes. 
